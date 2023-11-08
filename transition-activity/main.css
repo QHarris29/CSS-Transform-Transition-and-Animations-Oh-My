@@ -24,4 +24,5 @@ button {
 
 button:hover {
   background-color: cornflowerblue;
+  color: white;
 }
